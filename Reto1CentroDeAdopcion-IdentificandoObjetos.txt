@@ -1,0 +1,13 @@
+1)
+Usuario busca mascota
+
+2)
+Lista de mascotas disponibbles 
+
+3)
+Usuario adopta (o no) la mascota
+
+objetos
+* usuario
+* mascota 
+* adopción 
