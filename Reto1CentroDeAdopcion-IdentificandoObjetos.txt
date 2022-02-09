@@ -9,5 +9,9 @@ Usuario adopta (o no) la mascota
 
 objetos
 * usuario
-* mascota 
+* mascota
+	- perico
+	- loro 
+	- gato
+	- hamster
 * adopción 
