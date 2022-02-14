@@ -1,9 +1,9 @@
 class Account {
-  constructor(id, name, document, email, password) {
-    this.id = id;
+  constructor(name, document) {
+    this.id;
     this.name = name;
     this.document = document;
-    this.email = email;
-    this.password = password;
+    this.email;
+    this.password;
   }
 }
