@@ -12,7 +12,7 @@
     }
 
     public function printCarData(){
-      echo "License: $this->license - Conductor: {$this->driver->name} - Document: {$this->driver->document} \n";
+      echo "License: $this->license - Conductor: {$this->driver->name} - Document: {$this->driver->document} <br> \n";
     }
   }
 ?>
