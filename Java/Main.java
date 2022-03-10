@@ -7,5 +7,10 @@ class Main {
     Car secondCar = new Car("POU999", new Account("Carlos Comue", "CAR989"));
     secondCar.passengers = 2;
     secondCar.printCarData();
+
+    // Clase 31
+    CarBasic firsBasic = new CarBasic("RRR555", new Account("Jonas Jon", "JJ88"), "SuperMarca", "SuperModelo");
+    firsBasic.passengers = 99;
+    firsBasic.printCarData();
   }
 }
