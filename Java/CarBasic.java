@@ -7,4 +7,13 @@ class CarBasic extends Car{
     this.brand = brand;
     this.model = model;
   }
+
+  @Override
+  void printCarData() {    
+    super.printCarData();
+    System.out.println(
+      "Marca: " + brand + " - " +
+      "Modelo: " + model
+    );
+  }
 }
