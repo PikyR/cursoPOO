@@ -11,7 +11,6 @@ class CarAdvanced extends Car{
   //   this.seatsMaterial = seatsMaterial;
   // }
 
-
   //Constructor de ejemplo para la clase 33
   public CarAdvanced(String license, Account driver) {
     super(license, driver);  
